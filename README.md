@@ -1,7 +1,7 @@
 # Nashville Housing Data Cleaning Project (MySQL)
 
 ## Project Overview
-This project focuses on cleaning, transforming, and preparing raw housing data using MySQL.
+This project focuses on cleaning, transforming, and preparing raw Semi structured housing data using MySQL.
 The objective was to improve data quality, standardize formats, remove duplicates,
 and optimize the dataset for analysis and reporting purposes.
 
